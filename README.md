@@ -17,13 +17,13 @@ Welcome to my personal learning repository! Here, I document my progress, code s
 Here is my complete learning path. I update this daily as I complete new modules.
 
 ### ✅ Phase 01: The Foundation (Basics)
-*Status: InProgress*
-- [ ] **Variables & Data Types:** Strings, Integers, Floats, Booleans.
-- [ ] **Input/Output:** `print()` function, user inputs.
-- [ ] **Control Flow:** `if`, `else`, `elif` conditions.
-- [ ] **Loops:** `for` loops, `while` loops, break/continue.
+*Status: Complete*
+- [x] **Variables & Data Types:** Strings, Integers, Floats, Booleans.
+- [x] **Input/Output:** `print()` function, user inputs.
+- [x] **Control Flow:** `if`, `else`, `elif` conditions.
+- [x] **Loops:** `for` loops, `while` loops, break/continue.
 
-### ✅ Phase 02: Data Structures & Logic
+### 🚧 Phase 02: Data Structures & Logic
 *Status: Pending*
 - [ ] **Lists:** Indexing, Appending, Slicing data.
 - [ ] **Dictionaries:** Working with Key-Value pairs.
@@ -32,7 +32,7 @@ Here is my complete learning path. I update this daily as I complete new modules
 - [ ] **File Handling:** Reading & Writing text files (`.txt`).
 - [ ] **Mini Project 01:** 💸 **Personal Expense Tracker (CLI)**
 
-### ✅ Phase 03: Object-Oriented Programming (OOP)
+### 🚧 Phase 03: Object-Oriented Programming (OOP)
 *Status: Pending*
 - [ ] **Classes & Objects:** Blueprints, `__init__`, `self`.
 - [ ] **Inheritance:** Parent & Child classes.
