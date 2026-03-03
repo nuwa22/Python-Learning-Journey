@@ -17,29 +17,29 @@ Welcome to my personal learning repository! Here, I document my progress, code s
 Here is my complete learning path. I update this daily as I complete new modules.
 
 ### ✅ Phase 01: The Foundation (Basics)
-*Status: Pending*
-- [x] **Variables & Data Types:** Strings, Integers, Floats, Booleans.
-- [x] **Input/Output:** `print()` function, user inputs.
-- [x] **Control Flow:** `if`, `else`, `elif` conditions.
-- [x] **Loops:** `for` loops, `while` loops, break/continue.
+*Status: InProgress*
+- [ ] **Variables & Data Types:** Strings, Integers, Floats, Booleans.
+- [ ] **Input/Output:** `print()` function, user inputs.
+- [ ] **Control Flow:** `if`, `else`, `elif` conditions.
+- [ ] **Loops:** `for` loops, `while` loops, break/continue.
 
 ### ✅ Phase 02: Data Structures & Logic
 *Status: Pending*
-- [x] **Lists:** Indexing, Appending, Slicing data.
-- [x] **Dictionaries:** Working with Key-Value pairs.
-- [x] **Functions:** Creating reusable code blocks, Parameters, Return.
-- [x] **Error Handling:** Using `try` and `except` blocks.
-- [x] **File Handling:** Reading & Writing text files (`.txt`).
-- [x] **Mini Project 01:** 💸 **Personal Expense Tracker (CLI)**
+- [ ] **Lists:** Indexing, Appending, Slicing data.
+- [ ] **Dictionaries:** Working with Key-Value pairs.
+- [ ] **Functions:** Creating reusable code blocks, Parameters, Return.
+- [ ] **Error Handling:** Using `try` and `except` blocks.
+- [ ] **File Handling:** Reading & Writing text files (`.txt`).
+- [ ] **Mini Project 01:** 💸 **Personal Expense Tracker (CLI)**
 
 ### ✅ Phase 03: Object-Oriented Programming (OOP)
 *Status: Pending*
-- [x] **Classes & Objects:** Blueprints, `__init__`, `self`.
-- [x] **Inheritance:** Parent & Child classes.
-- [x] **Polymorphism:** Method Overriding.
-- [x] **Encapsulation:** Private variables & Data security.
-- [x] **Libraries:** Installing external packages (`pip`, `colorama`).
-- [x] **Mini Project 02:** 📚 **Library Management System**
+- [ ] **Classes & Objects:** Blueprints, `__init__`, `self`.
+- [ ] **Inheritance:** Parent & Child classes.
+- [ ] **Polymorphism:** Method Overriding.
+- [ ] **Encapsulation:** Private variables & Data security.
+- [ ] **Libraries:** Installing external packages (`pip`, `colorama`).
+- [ ] **Mini Project 02:** 📚 **Library Management System**
 
 ---
 
