@@ -24,7 +24,7 @@ Here is my complete learning path. I update this daily as I complete new modules
 - [x] **Loops:** `for` loops, `while` loops, break/continue.
 
 ### ✅ Phase 02: Data Structures & Logic
-*Status: In progress*
+*Status: Complete*
 - [x] **Lists:** Indexing, Appending, Slicing data.
 - [x] **Dictionaries:** Working with Key-Value pairs.
 - [x] **Functions:** Creating reusable code blocks, Parameters, Return.
