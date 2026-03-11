@@ -14,7 +14,7 @@
 
 # 1. Create class
 class Car:
-    def __init__(self, brand, color):
+    def __init__(self, brand, color): # Constructor
         self.brand = brand
         self.color = color
 
