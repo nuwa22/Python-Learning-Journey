@@ -36,7 +36,7 @@ Here is my complete learning path. I update this daily as I complete new modules
 
 ### 🚧 Phase 03: OOP & Modules
 *Status: In Progress*
-- [ ] **Classes & Objects:** Blueprints, `__init__`, `self`.
+- [x] **Classes & Objects:** Blueprints, `__init__`, `self`.
 - [ ] **Inheritance & Polymorphism:** Parent/Child classes, Method Overriding.
 - [ ] **Encapsulation:** Private variables & Data security.
 - [ ] **Modules & Packages:** Creating modules, importing.
