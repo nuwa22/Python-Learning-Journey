@@ -34,14 +34,14 @@ Here is my complete learning path. I update this daily as I complete new modules
 
 ---
 
-### 🚧 Phase 03: OOP & Modules
+### ✅ Phase 03: OOP & Modules
 *Status: In Progress*
 - [x] **Classes & Objects:** Blueprints, `__init__`, `self`.
-- [ ] **Inheritance & Polymorphism:** Parent/Child classes, Method Overriding.
-- [ ] **Encapsulation:** Private variables & Data security.
-- [ ] **Modules & Packages:** Creating modules, importing.
-- [ ] **Virtual Environments:** Managing packages with `pip` and `pipenv`.
-- [ ] **Mini Project 02:** 📚 **Library Management System**
+- [x] **Inheritance & Polymorphism:** Parent/Child classes, Method Overriding.
+- [x] **Encapsulation:** Private variables & Data security.
+- [x] **Modules & Packages:** Creating modules, importing.
+- [x] **Virtual Environments:** Managing packages with `pip` and `pipenv`.
+- [x] **Mini Project 02:** 📚 **Library Management System**
 
 ### 📅 Phase 04: Advanced Python & Functional Programming
 *Status: Pending*
