@@ -32,7 +32,6 @@ Here is my complete learning path. I update this daily as I complete new modules
 - [x] **File Handling:** Reading & Writing text files (`.txt`).
 - [x] **Mini Project 01:** 💸 **Personal Expense Tracker (CLI)**
 
----
 
 ### ✅ Phase 03: OOP & Modules
 *Status: In Progress*
