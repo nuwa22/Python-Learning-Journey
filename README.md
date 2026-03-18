@@ -43,11 +43,11 @@ Here is my complete learning path. I update this daily as I complete new modules
 - [x] **Mini Project 02:** 📚 **Library Management System**
 
 ### 📅 Phase 04: Advanced Python & Functional Programming
-*Status: In Progress*
+*Status: Complete*
 - [x] **Advanced Data Structures:** Tuples, Sets, Stacks, and Queues.
 - [x] **Advanced Iteration:** Comprehensions & Generator expressions.
-- [ ] **Functional Programming:** Lambda functions, Map, Reduce, Filter.
-- [ ] **Advanced Exceptions:** Raising custom exceptions.
+- [x] **Functional Programming:** Lambda functions, Map, Reduce, Filter.
+- [x] **Advanced Exceptions:** Raising custom exceptions.
 
 ### 📅 Phase 05: Python Standard Library & Data Formats
 *Status: Pending*
