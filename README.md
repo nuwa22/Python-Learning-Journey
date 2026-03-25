@@ -50,9 +50,9 @@ Here is my complete learning path. I update this daily as I complete new modules
 - [x] **Advanced Exceptions:** Raising custom exceptions.
 
 ### 📅 Phase 05: Python Standard Library & Data Formats
-*Status: Pending*
-- [ ] **File System:** Working with paths, files, and directories (`os`, `pathlib`).
-- [ ] **Data Formats:** Reading and writing CSV and JSON files.
+*Status: In Progress*
+- [x] **File System:** Working with paths, files, and directories (`os`, `pathlib`).
+- [x] **Data Formats:** Reading and writing CSV and JSON files.
 - [ ] **Date/Time & Random:** Advanced usage of `datetime` and `random` modules.
 
 ### 📅 Phase 06: Data Science Fundamentals

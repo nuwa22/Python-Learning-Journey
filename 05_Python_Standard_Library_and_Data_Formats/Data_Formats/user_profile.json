@@ -1,0 +1,10 @@
+{
+    "name": "Suresh",
+    "age": 26,
+    "is_active": true,
+    "skills": [
+        "Python",
+        "JavaScript",
+        "SQL"
+    ]
+}
