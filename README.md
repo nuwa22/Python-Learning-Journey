@@ -56,7 +56,7 @@ Here is my complete learning path. I update this daily as I complete new modules
 - [x] **Date/Time & Random:** Advanced usage of `datetime` and `random` modules.
 
 ### 📅 Phase 06: Data Science Fundamentals
-*Status: Pending*
+*Status: In Progress*
 - [ ] **NumPy:** Arrays and mathematical operations.
 - [ ] **Pandas:** Data manipulation and analysis.
 - [ ] **Matplotlib:** Data visualization and plotting charts.
