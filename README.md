@@ -57,7 +57,7 @@ Here is my complete learning path. I update this daily as I complete new modules
 
 ### 📅 Phase 06: Data Science Fundamentals
 *Status: In Progress*
-- [ ] **NumPy:** Arrays and mathematical operations.
+- [x] **NumPy:** Arrays and mathematical operations.
 - [ ] **Pandas:** Data manipulation and analysis.
 - [ ] **Matplotlib:** Data visualization and plotting charts.
 
