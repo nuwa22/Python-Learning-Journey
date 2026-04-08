@@ -56,13 +56,13 @@ Here is my complete learning path. I update this daily as I complete new modules
 - [x] **Date/Time & Random:** Advanced usage of `datetime` and `random` modules.
 
 ### 📅 Phase 06: Data Science Fundamentals
-*Status: In Progress*
+*Status: Complete*
 - [x] **NumPy:** Arrays and mathematical operations.
 - [x] **Pandas:** Data manipulation and analysis.
-- [ ] **Matplotlib:** Data visualization and plotting charts.
+- [X] **Matplotlib:** Data visualization and plotting charts.
 
 ### 📅 Phase 07: GUI Programming
-*Status: Pending*
+*Status: In Progress*
 - [ ] **Intro to Tkinter:** Windows, Titles, Geometry.
 - [ ] **Widgets:** Labels, Buttons, Entry boxes.
 - [ ] **Layout Management:** Pack, Grid, Place.
