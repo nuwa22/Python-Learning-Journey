@@ -63,9 +63,9 @@ Here is my complete learning path. I update this daily as I complete new modules
 
 ### 📅 Phase 07: GUI Programming
 *Status: In Progress*
-- [ ] **Intro to Tkinter:** Windows, Titles, Geometry.
-- [ ] **Widgets:** Labels, Buttons, Entry boxes.
-- [ ] **Layout Management:** Pack, Grid, Place.
+- [x] **Intro to Tkinter:** Windows, Titles, Geometry.
+- [x] **Widgets:** Labels, Buttons, Entry boxes.
+- [x] **Layout Management:** Pack, Grid, Place.
 - [ ] **Mini Project 03:** 🧮 **Digital Calculator / Counter App**
 
 ### 📅 Phase 08: Databases
