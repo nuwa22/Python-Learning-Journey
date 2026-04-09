@@ -62,7 +62,7 @@ Here is my complete learning path. I update this daily as I complete new modules
 - [X] **Matplotlib:** Data visualization and plotting charts.
 
 ### 📅 Phase 07: GUI Programming
-*Status: In Progress*
+*Status: Complete*
 - [x] **Intro to Tkinter:** Windows, Titles, Geometry.
 - [x] **Widgets:** Labels, Buttons, Entry boxes.
 - [x] **Layout Management:** Pack, Grid, Place.
