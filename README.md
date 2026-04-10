@@ -70,9 +70,7 @@ Here is my complete learning path. I update this daily as I complete new modules
 
 ### 📅 Phase 08: Databases
 *Status: Pending*
-- [ ] **Intro to SQL:** Basic Database concepts.
-- [ ] **SQLite with Python:** Connecting DB to Python.
-- [ ] **CRUD Operations:** Create, Read, Update, Delete data.
+- [x] **SQLite with Python:** Connecting DB to Python.
 - [ ] **Mini Project 04:** 🎓 **Student Management System**
 
 ### 📅 Phase 09: Web Development
@@ -85,7 +83,6 @@ Here is my complete learning path. I update this daily as I complete new modules
 ### 📅 Phase 10: Advanced & Deployment
 *Status: Pending*
 - [ ] **APIs:** Fetching live data (Weather, Currency).
-- [ ] **Git & GitHub (Advanced):** Branching & Merging.
 - [ ] **Exe Creation:** Converting `.py` to `.exe` software.
 - [ ] **Final Capstone Project:** Full-stack Application.
 
