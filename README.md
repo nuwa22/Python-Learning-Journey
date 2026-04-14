@@ -69,7 +69,7 @@ Here is my complete learning path. I update this daily as I complete new modules
 - [x] **Mini Project 03:** 🧮 **Digital Calculator / Counter App**
 
 ### 📅 Phase 08: Databases
-*Status: Pending*
+*Status: In Progress*
 - [x] **SQLite with Python:** Connecting DB to Python.
 - [ ] **Mini Project 04:** 🎓 **Student Management System**
 
