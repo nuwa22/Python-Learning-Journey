@@ -71,7 +71,7 @@ Here is my complete learning path. I update this daily as I complete new modules
 ### 📅 Phase 08: Databases
 *Status: In Progress*
 - [x] **SQLite with Python:** Connecting DB to Python.
-- [ ] **Mini Project 04:** 🎓 **Student Management System**
+- [x] **Mini Project 04:** 🎓 **Student Management System**
 
 ### 📅 Phase 09: Web Development
 *Status: Pending*
